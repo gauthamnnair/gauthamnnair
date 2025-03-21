@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gautham N Nair
 - 👀 I’m interested in FOSS
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning AI/ML
 - 📫 How to reach me gauthamnnair@tutanota.com
 
 <!---
